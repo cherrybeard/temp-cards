@@ -1,0 +1,17 @@
+body {
+  background: #0c7915 url('../img/bg.jpg');
+}
+.card {
+  background: white;
+  border: solid 1px #999999;
+  border-radius: 0.8em;
+  height: 12em;
+  padding: 1em;
+  width: 9em;
+}
+.card--hq {
+  background-image: url('../img/card-hq.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
